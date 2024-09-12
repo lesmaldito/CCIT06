@@ -1,0 +1,57 @@
+#banner {
+    height: 90vh;
+    background-image: url(pic1.jpg);
+    background-size: cover;
+
+}
+    
+.btn {
+    padding: a15px 30px;
+    transition: all 0.4s ease;
+    font-weight: 700;
+    font-size: 18px;
+    border-radius: 1px;
+    letter-spacing: 2px;
+}
+
+.btn-brand { 
+    background-color: red;
+    color: #fff;
+    border: 2px white;
+
+
+}
+
+section{
+    padding: 100px 0;
+}
+
+#about h2{
+     font-size: 55px;
+     font-weight: 900;
+     color: black;
+
+}
+
+#about .btn-brand:hover {
+    color: black;
+    border-color: black;
+}
+
+#about {
+    background-color: lavender;
+}
+
+.Kiffy {
+    width: 40%;
+}
+.services .btn-brand:hover{
+    color: black;
+    border-color: black;
+}
+
+#services h2{
+    font-size: 55px;
+    font-weight: 900;
+    color: black;
+}
